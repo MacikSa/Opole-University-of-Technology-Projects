@@ -59,3 +59,10 @@ oddzielonych pojedynczymi spacjami.
 Standardowe wyjście powinno zawierać Z wierszy. W każdym z nich powinna znaleźć się 
 jedna liczba określająca maksymalną długość ciągu rosnącego otrzymanego przez usunięcie 
 (lub nie) z ciągu danego pewnej liczby elementów.
+
+#
+
+## Projekt Kalkulatora
+
+Projekt kalkulatora w c++ obejmuje wpisywanie ciągów wyrażeń matematycznych na wejście. Korzystając z algorytmu ONP (Odwrotna notacja polska).
+Można również obliczyć podstawowe pola figur płaskich oraz objętość podstawowych brył.
