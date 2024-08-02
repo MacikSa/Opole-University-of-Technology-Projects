@@ -1,4 +1,4 @@
-# Opole-University-of-Technology-Projects
+# Opole-University-of-Technology-My-Projects
 
 
 ## Projekt1:
